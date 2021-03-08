@@ -158,3 +158,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://blue-hickory-5c8a7.netlify.app'
